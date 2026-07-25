@@ -1,0 +1,10 @@
+﻿# Replace these illustrative holdings with your own. Weights must total 100.
+holdings:
+  - ticker: VEQT.TO
+    weight: 70
+  - ticker: VFV.TO
+    weight: 20
+  - ticker: CGL-C.TO
+    weight: 10
+
+

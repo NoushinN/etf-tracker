@@ -1,0 +1,12 @@
+﻿momentum_weight: 0.40
+risk_adjusted_weight: 0.35
+cost_weight: 0.15
+quality_weight: 0.10
+
+momentum_period_weights:
+  return_1m: 0.10
+  return_3m: 0.20
+  return_6m: 0.30
+  return_1y: 0.40
+
+
